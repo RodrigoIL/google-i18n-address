@@ -1,1 +1,136 @@
-{"CH": {"fmt": "%O%n%N%n%A%nCH-%Z %C", "id": "data/CH", "key": "CH", "name": "SWITZERLAND", "postprefix": "CH-", "posturl": "http://www.post.ch/db/owa/pv_plz_pack/pr_main", "require": "ACZ", "upper": "", "zip": "\\d{4}", "zipex": "2544,1211,1556,3030"}}
+{
+  "CH": {
+    "fmt": "%O%n%N%n%A%nCH-%Z %C",
+    "id": "data/CH",
+    "key": "CH",
+    "name": "SWITZERLAND",
+    "postprefix": "CH-",
+    "posturl": "http://www.post.ch/db/owa/pv_plz_pack/pr_main",
+    "require": "ACZ",
+    "sub_isoids": "",
+    "sub_keys": "",
+    "upper": "",
+    "zip": "\\d{4}",
+    "zipex": "2544,1211,1556,3030"
+  },
+  "CH/Zürich": {
+    "id": "data/CH/Zürich",
+    "isoid": "ZUR",
+    "key": "Zürich",
+    "lang": "en"
+  },
+  "CH/Geneva": {
+    "id": "data/CH/Geneva",
+    "isoid": "GEN",
+    "key": "Geneva",
+    "lang": "en"
+  },
+  "CH/Basel": {
+    "id": "data/CH/Basel",
+    "isoid": "BAS",
+    "key": "Basel",
+    "lang": "en"
+  },
+  "CH/Lausanne": {
+    "id": "data/CH/Lausanne",
+    "isoid": "LAU",
+    "key": "Lausanne",
+    "lang": "en"
+  },
+  "CH/Bern": {
+    "id": "data/CH/Bern",
+    "isoid": "BER",
+    "key": "Bern",
+    "lang": "en"
+  },
+  "CH/Winterthur": {
+    "id": "data/CH/Winterthur",
+    "isoid": "WIN",
+    "key": "Winterthur",
+    "lang": "en"
+  },
+  "CH/Lucerne": {
+    "id": "data/CH/Lucerne",
+    "isoid": "LUC",
+    "key": "Lucerne",
+    "lang": "en"
+  },
+  "CH/St. Gallen": {
+    "id": "data/CH/St. Gallen",
+    "isoid": "STG",
+    "key": "St. Gallen",
+    "lang": "en"
+  },
+  "CH/Lugano": {
+    "id": "data/CH/Lugano",
+    "isoid": "LUG",
+    "key": "Lugano",
+    "lang": "en"
+  },
+  "CH/Biel/Bienne": {
+    "id": "data/CH/Biel/Bienne",
+    "isoid": "BIE",
+    "key": "Biel/Bienne",
+    "lang": "en"
+  },
+  "CH/Thun": {
+    "id": "data/CH/Thun",
+    "isoid": "THU",
+    "key": "Thun",
+    "lang": "en"
+  },
+  "CH/Bellinzona": {
+    "id": "data/CH/Bellinzona",
+    "isoid": "BEL",
+    "key": "Bellinzona",
+    "lang": "en"
+  },
+  "CH/Köniz": {
+    "id": "data/CH/Köniz",
+    "isoid": "KON",
+    "key": "Köniz",
+    "lang": "en"
+  },
+  "CH/Fribourg": {
+    "id": "data/CH/Fribourg",
+    "isoid": "FRI",
+    "key": "Fribourg",
+    "lang": "en"
+  },
+  "CH/La Chaux-de-Fonds": {
+    "id": "data/CH/La Chaux-de-Fonds",
+    "isoid": "LCF",
+    "key": "La Chaux-de-Fonds",
+    "lang": "en"
+  },
+  "CH/Schaffhausen": {
+    "id": "data/CH/Schaffhausen",
+    "isoid": "SCH",
+    "key": "Schaffhausen",
+    "lang": "en"
+  },
+  "CH/Chur": {
+    "id": "data/CH/Chur",
+    "isoid": "CHU",
+    "key": "Chur",
+    "lang": "en"
+  },
+  "CH/Vernier": {
+    "id": "data/CH/Vernier",
+    "isoid": "VER",
+    "key": "Vernier",
+    "lang": "en"
+  },
+  "CH/Uster": {
+    "id": "data/CH/Uster",
+    "isoid": "UST",
+    "key": "Uster",
+    "lang": "en"
+  },
+  "CH/Sion": {
+    "id": "data/CH/Sion",
+    "isoid": "SIO",
+    "key": "Sion",
+    "lang": "en"
+  }
+}
