@@ -1,1 +1,110 @@
-{"NZ": {"fmt": "%N%n%O%n%A%n%D%n%C %Z", "id": "data/NZ", "key": "NZ", "name": "NEW ZEALAND", "posturl": "http://www.nzpost.co.nz/Cultures/en-NZ/OnlineTools/PostCodeFinder/", "require": "ACZ", "zip": "\\d{4}", "zipex": "6001,6015,6332,8252,1030"}}
+{
+  "NZ": {
+    "fmt": "%N%n%O%n%A%n%D%n%C %Z",
+    "id": "data/NZ",
+    "key": "NZ",
+    "name": "NEW ZEALAND",
+    "posturl": "http://www.nzpost.co.nz/Cultures/en-NZ/OnlineTools/PostCodeFinder/",
+    "require": "ACZ",
+    "sub_isoids": "NTL~AUK~WKO~BOP~GIS~HKB~TKI~MWT~WGN~TAS~NSN~MBH~WTC~CAN~OTA~STL",
+    "sub_keys": "Northland~Auckland~Waikato~Bay of Plenty~Gisborne~Hawke's Bay~Taranaki~Manawatū-Whanganui~Wellington~Tasman~Nelson~Marlborough~West Coast~Canterbury~Otago~Southland",
+    "zip": "\\d{4}",
+    "zipex": "6001,6015,6332,8252,1030"
+  },
+  "CH/Northland": {
+    "id": "data/CH/Northland",
+    "isoid": "NTL",
+    "key": "Northland",
+    "lang": "en"
+  },
+  "CH/Auckland": {
+    "id": "data/CH/Auckland",
+    "isoid": "AUk",
+    "key": "Auckland",
+    "lang": "en"
+  },
+  "CH/Waikato": {
+    "id": "data/CH/Waikato",
+    "isoid": "WKO",
+    "key": "Waikato",
+    "lang": "en"
+  },
+  "CH/Bay of Plenty": {
+    "id": "data/CH/Bay of Plenty",
+    "isoid": "BOP",
+    "key": "Bay of Plenty",
+    "lang": "en"
+  },
+  "CH/Gisborne": {
+    "id": "data/CH/Gisborne",
+    "isoid": "GIS",
+    "key": "Gisborne",
+    "lang": "en"
+  },
+  "CH/Hawke's Bay": {
+    "id": "data/CH/Hawke's Bay",
+    "isoid": "HKB",
+    "key": "Hawke's Bay",
+    "lang": "en"
+  },
+  "CH/Taranaki": {
+    "id": "data/CH/Taranaki",
+    "isoid": "TKI",
+    "key": "Taranaki",
+    "lang": "en"
+  },
+  "CH/Manawatū-Whanganui": {
+    "id": "data/CH/Manawatū-Whanganui",
+    "isoid": "MWT",
+    "key": "Manawatū-Whanganui",
+    "lang": "en"
+  },
+  "CH/Wellington": {
+    "id": "data/CH/Wellington",
+    "isoid": "WGN",
+    "key": "Wellington",
+    "lang": "en"
+  },
+  "CH/Tasman": {
+    "id": "data/CH/Tasman",
+    "isoid": "TAS",
+    "key": "Tasman",
+    "lang": "en"
+  },
+  "CH/Nelson": {
+    "id": "data/CH/Nelson",
+    "isoid": "NSN",
+    "key": "Nelson",
+    "lang": "en"
+  },
+  "CH/Marlborough": {
+    "id": "data/CH/Marlborough",
+    "isoid": "MBH",
+    "key": "Marlborough",
+    "lang": "en"
+  },
+  "CH/West Coast": {
+    "id": "data/CH/West Coast",
+    "isoid": "WTC",
+    "key": "West Coast",
+    "lang": "en"
+  },
+  "CH/Canterbury": {
+    "id": "data/CH/Canterbury",
+    "isoid": "CAN",
+    "key": "Canterbury",
+    "lang": "en"
+  },
+  "CH/Otago": {
+    "id": "data/CH/Otago",
+    "isoid": "OTA",
+    "key": "Otago",
+    "lang": "en"
+  },
+  "CH/Southland": {
+    "id": "data/CH/Southland",
+    "isoid": "STL",
+    "key": "Southland",
+    "lang": "en"
+  }
+}
