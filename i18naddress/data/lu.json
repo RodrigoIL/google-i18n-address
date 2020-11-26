@@ -1,1 +1,87 @@
-{"LU": {"fmt": "%O%n%N%n%A%nL-%Z %C", "id": "data/LU", "key": "LU", "name": "LUXEMBOURG", "postprefix": "L-", "posturl": "https://www.post.lu/fr/grandes-entreprises/solutions-postales/rechercher-un-code-postal", "require": "ACZ", "zip": "\\d{4}", "zipex": "4750,2998"}}
+{
+  "LU": {
+    "fmt": "%O%n%N%n%A%nL-%Z %C",
+    "id": "data/LU",
+    "key": "LU",
+    "name": "LUXEMBOURG",
+    "postprefix": "L-",
+    "posturl": "https://www.post.lu/fr/grandes-entreprises/solutions-postales/rechercher-un-code-postal",
+    "sub_isoids": "CAP~CLE~DIE~ECH~ESC~GRE~LUX~MER~RED~REM~VIA~WIL",
+    "sub_keys": "Capellen~Clervaux~Diekirch~Echternach~Esch-sur-Alzette~Grevenmacher~Luxemburgo~Mersch~Redange~Remich~Vianden~Wiltz",
+    "require": "ACZ",
+    "zip": "\\d{4}",
+    "zipex": "4750,2998"
+  },
+  "LU/Capellen": {
+    "id": "data/LU/Capellen",
+    "isoid": "CAP",
+    "key": "Capellen",
+    "lang": "es"
+  },
+  "LU/Clervaux": {
+    "id": "data/LU/Clervaux",
+    "isoid": "CLE",
+    "key": "Clervaux",
+    "lang": "es"
+  },
+  "LU/Diekirch": {
+    "id": "data/LU/Diekirch",
+    "isoid": "DIE",
+    "key": "Diekirch",
+    "lang": "es"
+  },
+  "LU/Echternach": {
+    "id": "data/LU/Echternach",
+    "isoid": "ECH",
+    "key": "Echternach",
+    "lang": "es"
+  },
+  "LU/Esch-sur-Alzette": {
+    "id": "data/LU/Esch-sur-Alzette",
+    "isoid": "ESC",
+    "key": "Esch-sur-Alzette",
+    "lang": "es"
+  },
+  "LU/Grevenmacher": {
+    "id": "data/LU/Grevenmacher",
+    "isoid": "GRE",
+    "key": "Grevenmacher",
+    "lang": "es"
+  },
+  "LU/Luxemburgo": {
+    "id": "data/LU/Luxemburgo",
+    "isoid": "LUX",
+    "key": "Luxemburgo",
+    "lang": "es"
+  },
+  "LU/Mersch": {
+    "id": "data/LU/Mersch",
+    "isoid": "MER",
+    "key": "Mersch",
+    "lang": "es"
+  },
+  "LU/Redange": {
+    "id": "data/LU/Redange",
+    "isoid": "RED",
+    "key": "Redange",
+    "lang": "es"
+  },
+  "LU/Remich": {
+    "id": "data/LU/Remich",
+    "isoid": "REM",
+    "key": "Remich",
+    "lang": "es"
+  },
+  "LU/Vianden": {
+    "id": "data/LU/Vianden",
+    "isoid": "VIA",
+    "key": "Vianden",
+    "lang": "es"
+  },
+  "LU/Wiltz": {
+    "id": "data/LU/Wiltz",
+    "isoid": "WIL",
+    "key": "Wiltz",
+    "lang": "es"
+  }
+}
