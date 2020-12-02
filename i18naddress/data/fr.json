@@ -1,1 +1,94 @@
-{"FR": {"fmt": "%O%n%N%n%A%n%Z %C", "id": "data/FR", "key": "FR", "name": "FRANCE", "posturl": "http://www.laposte.fr/Particulier/Utiliser-nos-outils-pratiques/Outils-et-documents/Trouvez-un-code-postal", "require": "ACZ", "upper": "CX", "zip": "\\d{2} ?\\d{3}", "zipex": "33380,34092,33506"}}
+{
+  "FR": {
+    "fmt": "%O%n%N%n%A%n%Z %C",
+    "id": "data/FR",
+    "key": "FR",
+    "name": "FRANCE",
+    "posturl": "http://www.laposte.fr/Particulier/Utiliser-nos-outils-pratiques/Outils-et-documents/Trouvez-un-code-postal",
+    "sub_isoids": "GES~NAQ~ARA~BFC~BRE~CVL~COR~IFR~OCC~AFR~NOR~PLO~PAC",
+    "sub_keys": "Gran Este~Nueva Aquitania~Auvernia-Ródano-Alpes~Borgoña-Franco Condado~Bretaña~Centro-Valle de Loira~Córcega~Isla de Francia~Occitania~Alta Francia~Normandía~País del Loira~Provenza-Alpes-Costa Azul",
+    "require": "ACZ",
+    "upper": "CX",
+    "zip": "\\d{2} ?\\d{3}",
+    "zipex": "33380,34092,33506"
+  },
+  "FR/Gran Este": {
+    "id": "data/FR/Gran Este",
+    "isoid": "GES",
+    "key": "Gran Este",
+    "lang": "es"
+  },
+  "FR/Nueva Aquitania": {
+    "id": "data/FR/Nueva Aquitania",
+    "isoid": "NAQ",
+    "key": "Nueva Aquitania",
+    "lang": "es"
+  },
+  "FR/Auvernia-Ródano-Alpes": {
+    "id": "data/FR/Auvernia-Ródano-Alpes",
+    "isoid": "ARA",
+    "key": "Auvernia-Ródano-Alpes",
+    "lang": "es"
+  },
+  "FR/Borgoña-Franco Condado": {
+    "id": "data/FR/Borgoña-Franco Condado",
+    "isoid": "BFC",
+    "key": "Borgoña-Franco Condado",
+    "lang": "es"
+  },
+  "FR/Bretaña": {
+    "id": "data/FR/Bretaña",
+    "isoid": "BRE",
+    "key": "Bretaña",
+    "lang": "es"
+  },
+  "FR/Centro-Valle de Loira": {
+    "id": "data/FR/Centro-Valle de Loira",
+    "isoid": "CVL",
+    "key": "Centro-Valle de Loira",
+    "lang": "es"
+  },
+  "FR/Córcega": {
+    "id": "data/FR/Córcega",
+    "isoid": "COR",
+    "key": "Córcega",
+    "lang": "es"
+  },
+  "FR/Isla de Francia": {
+    "id": "data/FR/Isla de Francia",
+    "isoid": "IFR",
+    "key": "Isla de Francia",
+    "lang": "es"
+  },
+  "FR/Occitania": {
+    "id": "data/FR/Occitania",
+    "isoid": "OCC",
+    "key": "Occitania",
+    "lang": "es"
+  },
+  "FR/Alta Francia": {
+    "id": "data/FR/Alta Francia",
+    "isoid": "AFR",
+    "key": "Alta Francia",
+    "lang": "es"
+  },
+  "FR/Normandía": {
+    "id": "data/FR/Normandía",
+    "isoid": "NOR",
+    "key": "Normandía",
+    "lang": "es"
+  },
+  "FR/País del Loira": {
+    "id": "data/FR/País del Loira",
+    "isoid": "PLO",
+    "key": "País del Loira",
+    "lang": "es"
+  },
+  "FR/Provenza-Alpes-Costa Azul": {
+    "id": "data/FR/Provenza-Alpes-Costa Azul",
+    "isoid": "PAC",
+    "key": "Provenza-Alpes-Costa Azul",
+    "lang": "es"
+  }
+}
+
