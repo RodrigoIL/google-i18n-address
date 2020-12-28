@@ -9,7 +9,7 @@
     "zip": "\\d{4}",
     "zipex": "4000,1000",
     "sub_isoids": "FLE~WAL~BRU",
-    "sub_keys": "Flemish Region~Walloon Region~Oruro"
+    "sub_keys": "Flemish Region~Walloon Region~Brussels-Capital Region"
   },
   "BE/Flemish Region": {
     "id": "data/BE/Flemish Region",
