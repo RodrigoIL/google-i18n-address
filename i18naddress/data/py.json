@@ -1,1 +1,120 @@
-{"PY": {"fmt": "%N%n%O%n%A%n%Z %C", "id": "data/PY", "key": "PY", "name": "PARAGUAY", "zip": "\\d{4}", "zipex": "1536,1538,1209"}}
+{
+  "PY": {
+    "fmt": "%N%n%O%n%A%n%Z %C",
+    "id": "data/PY",
+    "key": "PY",
+    "name": "PARAGUAY",
+    "zip": "\\d{4}",
+    "zipex": "1536,1538,1209",
+    "sub_isoids": "DIS~APY~APA~AMA~BOQ~CAG~CAZ~CAN~CEN~CON~COR~GUA~ITA~MIS~ÑEE~PAR~PRE~SPE",
+    "sub_keys": "Distrito Capital~Alto Paraguay~Alto Paraná~Amambay~Boquerón~Caaguazú~Caazapá~Canindeyú~Central~Concepción~Cordillera~Guairá~Itapúa~Misiones~Ñeembucú~Paraguarí~Presidente Hayes~San Pedro"
+  },
+  "PY/Distrito Capital": {
+    "id": "data/PY/Distrito Capital",
+    "isoid": "DIS",
+    "key": "Distrito Capital",
+    "lang": "es"
+  },
+  "PY/Alto Paraguay": {
+    "id": "data/PY/Alto Paraguay",
+    "isoid": "APY",
+    "key": "Alto Paraguay",
+    "lang": "es"
+  },
+  "PY/Alto Paraná": {
+    "id": "data/PY/Alto Paraná",
+    "isoid": "APA",
+    "key": "Alto Paraná",
+    "lang": "es"
+  },
+  "PY/Amambay": {
+    "id": "data/PY/Amambay",
+    "isoid": "AMA",
+    "key": "Amambay",
+    "lang": "es"
+  },
+  "PY/Boquerón": {
+    "id": "data/PY/Boquerón",
+    "isoid": "BOQ",
+    "key": "Boquerón",
+    "lang": "es"
+  },
+  "PY/Caaguazú": {
+    "id": "data/PY/Caaguazú",
+    "isoid": "CAG",
+    "key": "Caaguazú",
+    "lang": "es"
+  },
+  "PY/Caazapá": {
+    "id": "data/PY/Caazapá",
+    "isoid": "CAZ",
+    "key": "Caazapá",
+    "lang": "es"
+  },
+  "PY/Canindeyú": {
+    "id": "data/PY/Canindeyú",
+    "isoid": "CAN",
+    "key": "Canindeyú",
+    "lang": "es"
+  },
+  "PY/Central": {
+    "id": "data/PY/Central",
+    "isoid": "CEN",
+    "key": "Central",
+    "lang": "es"
+  },
+  "PY/Concepción": {
+    "id": "data/PY/Concepción",
+    "isoid": "CON",
+    "key": "Concepción",
+    "lang": "es"
+  },
+  "PY/Cordillera": {
+    "id": "data/PY/Cordillera",
+    "isoid": "COR",
+    "key": "Cordillera",
+    "lang": "es"
+  },
+  "PY/Guairá": {
+    "id": "data/PY/Guairá",
+    "isoid": "GUA",
+    "key": "Guairá",
+    "lang": "es"
+  },
+  "PY/Itapúa": {
+    "id": "data/PY/Itapúa",
+    "isoid": "ITA",
+    "key": "Itapúa",
+    "lang": "es"
+  },
+  "PY/Misiones": {
+    "id": "data/PY/Misiones",
+    "isoid": "MIS",
+    "key": "Misiones",
+    "lang": "es"
+  },
+  "PY/Ñeembucú": {
+    "id": "data/PY/Ñeembucú",
+    "isoid": "ÑEE",
+    "key": "Ñeembucú",
+    "lang": "es"
+  },
+  "PY/Paraguarí": {
+    "id": "data/PY/Paraguarí",
+    "isoid": "PAR",
+    "key": "Paraguarí",
+    "lang": "es"
+  },
+  "PY/Presidente Hayes": {
+    "id": "data/PY/Presidente Hayes",
+    "isoid": "PRE",
+    "key": "Presidente Hayes",
+    "lang": "es"
+  },
+  "PY/San Pedro": {
+    "id": "data/PY/San Pedro",
+    "isoid": "SPE",
+    "key": "San Pedro",
+    "lang": "es"
+  }
+}

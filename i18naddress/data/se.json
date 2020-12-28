@@ -1,1 +1,142 @@
-{"SE": {"fmt": "%O%n%N%n%A%nSE-%Z %C", "id": "data/SE", "key": "SE", "locality_name_type": "post_town", "name": "SWEDEN", "postprefix": "SE-", "posturl": "https://www.postnord.se/online-verktyg/verktyg/sok/sok-postnummer-och-adress", "require": "ACZ", "zip": "\\d{3} ?\\d{2}", "zipex": "11455,12345,10500"}}
+{
+  "SE": {
+    "fmt": "%O%n%N%n%A%nSE-%Z %C",
+    "id": "data/SE",
+    "key": "SE",
+    "locality_name_type": "post_town",
+    "name": "SWEDEN",
+    "postprefix": "SE-",
+    "posturl": "https://www.postnord.se/online-verktyg/verktyg/sok/sok-postnummer-och-adress",
+    "require": "ACZ",
+    "zip": "\\d{3} ?\\d{2}",
+    "zipex": "11455,12345,10500",
+    "sub_isoids": "BLE~DAL~GOT~GÄV~HAL~JÄM~JÖN~KAL~KRO~NOR~SKÅ~STO~SÖD~UPP~VÄR~VÄB~VÄN~VÄL~VÄG~ÖRE~ÖST",
+    "sub_keys": "Blekinge~Dalarna~Gotland~Gävleborg~Halland~Jämtland~Jönköping~Kalmar~Kronoberg~Norrbotten~Skåne~Stockholm~Södermanland~Uppsala~Värmland~Västerbotten~Västernorrland~Västmanland~Västra Götaland~Örebro~Östergötland"
+  },
+  "SE/Blekinge": {
+    "id": "data/SE/Blekinge",
+    "isoid": "BLE",
+    "key": "Blekinge",
+    "lang": "es"
+  },
+  "SE/Dalarna": {
+    "id": "data/SE/Dalarna",
+    "isoid": "DAL",
+    "key": "Dalarna",
+    "lang": "es"
+  },
+  "SE/Gotland": {
+    "id": "data/SE/Gotland",
+    "isoid": "GOT",
+    "key": "Gotland",
+    "lang": "es"
+  },
+  "SE/Gävleborg": {
+    "id": "data/SE/Gävleborg",
+    "isoid": "GÄV",
+    "key": "Gävleborg",
+    "lang": "es"
+  },
+  "SE/Halland": {
+    "id": "data/SE/Halland",
+    "isoid": "HAL",
+    "key": "Halland",
+    "lang": "es"
+  },
+  "SE/Jämtland": {
+    "id": "data/SE/Jämtland",
+    "isoid": "JÄM",
+    "key": "Jämtland",
+    "lang": "es"
+  },
+  "SE/Jönköping": {
+    "id": "data/SE/Jönköping",
+    "isoid": "JÖN",
+    "key": "Jönköping",
+    "lang": "es"
+  },
+  "SE/Kalmar": {
+    "id": "data/SE/Kalmar",
+    "isoid": "KAL",
+    "key": "Kalmar",
+    "lang": "es"
+  },
+  "SE/Kronoberg": {
+    "id": "data/SE/Kronoberg",
+    "isoid": "KRO",
+    "key": "Kronoberg",
+    "lang": "es"
+  },
+  "SE/Norrbotten": {
+    "id": "data/SE/Norrbotten",
+    "isoid": "NOR",
+    "key": "Norrbotten",
+    "lang": "es"
+  },
+  "SE/Skåne": {
+    "id": "data/SE/Skåne",
+    "isoid": "SKÅ",
+    "key": "Skåne",
+    "lang": "es"
+  },
+  "SE/Stockholm": {
+    "id": "data/SE/Stockholm",
+    "isoid": "STO",
+    "key": "Stockholm",
+    "lang": "es"
+  },
+  "SE/Södermanland": {
+    "id": "data/SE/Södermanland",
+    "isoid": "SÖD",
+    "key": "Södermanland",
+    "lang": "es"
+  },
+  "SE/Uppsala": {
+    "id": "data/SE/Uppsala",
+    "isoid": "UPP",
+    "key": "Uppsala",
+    "lang": "es"
+  },
+  "SE/Värmland": {
+    "id": "data/SE/Värmland",
+    "isoid": "VÄR",
+    "key": "Värmland",
+    "lang": "es"
+  },
+  "SE/Västerbotten": {
+    "id": "data/SE/Västerbotten",
+    "isoid": "VÄB",
+    "key": "Västerbotten",
+    "lang": "es"
+  },
+  "SE/Västernorrland": {
+    "id": "data/SE/Västernorrland",
+    "isoid": "VÄN",
+    "key": "Västernorrland",
+    "lang": "es"
+  },
+  "SE/Västmanland": {
+    "id": "data/SE/Västmanland",
+    "isoid": "VÄL",
+    "key": "Västmanland",
+    "lang": "es"
+  },
+  "SE/Västra Götaland": {
+    "id": "data/SE/Västra Götaland",
+    "isoid": "VÄG",
+    "key": "Västra Götaland",
+    "lang": "es"
+  },
+  "SE/Örebro": {
+    "id": "data/SE/Örebro",
+    "isoid": "ÖRE",
+    "key": "Örebro",
+    "lang": "es"
+  },
+  "SE/Östergötland": {
+    "id": "data/SE/Östergötland",
+    "isoid": "ÖST",
+    "key": "Östergötland",
+    "lang": "es"
+  }
+}

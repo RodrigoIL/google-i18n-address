@@ -1,1 +1,64 @@
-{"BO": {"id": "data/BO", "key": "BO", "name": "BOLIVIA", "upper": "AC"}}
+{
+  "BO": {
+    "id": "data/BO",
+    "key": "BO",
+    "name": "BOLIVIA",
+    "upper": "AC",
+    "sub_isoids": "PAN~LPA~BEN~ORU~COC~SCR~POT~CHU~TAR",
+    "sub_keys": "Pando~La Paz~Beni~Oruro~Cochabamba~Santa Cruz~Potosí~Chuquisaca~Tarija"
+  },
+  "BO/Pando": {
+    "id": "data/BO/Pando",
+    "isoid": "PAN",
+    "key": "Pando",
+    "lang": "es"
+  },
+  "BO/La Paz": {
+    "id": "data/BO/La Paz",
+    "isoid": "LPA",
+    "key": "La Paz",
+    "lang": "es"
+  },
+  "BO/Beni": {
+    "id": "data/BO/Beni",
+    "isoid": "BEN",
+    "key": "Beni",
+    "lang": "es"
+  },
+  "BO/Oruro": {
+    "id": "data/BO/Oruro",
+    "isoid": "ORU",
+    "key": "Oruro",
+    "lang": "es"
+  },
+  "BO/Cochabamba": {
+    "id": "data/BO/Cochabamba",
+    "isoid": "COC",
+    "key": "Cochabamba",
+    "lang": "es"
+  },
+  "BO/Santa Cruz": {
+    "id": "data/BO/Santa Cruz",
+    "isoid": "SCR",
+    "key": "Santa Cruz",
+    "lang": "es"
+  },
+  "BO/Potosí": {
+    "id": "data/BO/Potosí",
+    "isoid": "POT",
+    "key": "Potosí",
+    "lang": "es"
+  },
+  "BO/Chuquisaca": {
+    "id": "data/BO/Chuquisaca",
+    "isoid": "CHU",
+    "key": "Chuquisaca",
+    "lang": "es"
+  },
+  "BO/Tarija": {
+    "id": "data/BO/Tarija",
+    "isoid": "TAR",
+    "key": "Tarija",
+    "lang": "es"
+  }
+}

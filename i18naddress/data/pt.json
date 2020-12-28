@@ -1,1 +1,122 @@
-{"PT": {"fmt": "%N%n%O%n%A%n%Z %C", "id": "data/PT", "key": "PT", "name": "PORTUGAL", "posturl": "http://www.ctt.pt/feapl_2/app/open/tools.jspx?tool=1", "require": "ACZ", "zip": "\\d{4}-\\d{3}", "zipex": "2725-079,1250-096,1201-950,2860-571,1208-148"}}
+{
+  "PT": {
+    "fmt": "%N%n%O%n%A%n%Z %C",
+    "id": "data/PT",
+    "key": "PT",
+    "name": "PORTUGAL",
+    "posturl": "http://www.ctt.pt/feapl_2/app/open/tools.jspx?tool=1",
+    "require": "ACZ",
+    "zip": "\\d{4}-\\d{3}",
+    "zipex": "2725-079,1250-096,1201-950,2860-571,1208-148",
+    "sub_isoids": "AVE~BEJ~BRA~BRN~CAS~COI~ÉVO~FAR~GUA~LEI~LIS~POA~POR~SAN~SET~VIA~VIL~VIS",
+    "sub_keys": "Aveiro~Beja~Braga~Bragança~Castelo Branco~Coimbra~Évora~Faro~Guarda~Leiria~Lisbon~Portalegre~Porto~Santarém~Setúbal~Viana do Castelo~Vila Real~Viseu"
+  },
+  "PT/Aveiro": {
+    "id": "data/PT/Aveiro",
+    "isoid": "AVE",
+    "key": "Aveiro",
+    "lang": "es"
+  },
+  "PT/Beja": {
+    "id": "data/PT/Beja",
+    "isoid": "BEJ",
+    "key": "Beja",
+    "lang": "es"
+  },
+  "PT/Braga": {
+    "id": "data/PT/Braga",
+    "isoid": "BRA",
+    "key": "Braga",
+    "lang": "es"
+  },
+  "PT/Bragança": {
+    "id": "data/PT/Bragança",
+    "isoid": "BRN",
+    "key": "Bragança",
+    "lang": "es"
+  },
+  "PT/Castelo Branco": {
+    "id": "data/PT/Castelo Branco",
+    "isoid": "CAS",
+    "key": "Castelo Branco",
+    "lang": "es"
+  },
+  "PT/Coimbra": {
+    "id": "data/PT/Coimbra",
+    "isoid": "COI",
+    "key": "Coimbra",
+    "lang": "es"
+  },
+  "PT/Évora": {
+    "id": "data/PT/Évora",
+    "isoid": "ÉVO",
+    "key": "Évora",
+    "lang": "es"
+  },
+  "PT/Faro": {
+    "id": "data/PT/Faro",
+    "isoid": "FAR",
+    "key": "Faro",
+    "lang": "es"
+  },
+  "PT/Guarda": {
+    "id": "data/PT/Guarda",
+    "isoid": "GUA",
+    "key": "Guarda",
+    "lang": "es"
+  },
+  "PT/Leiria": {
+    "id": "data/PT/Leiria",
+    "isoid": "LEI",
+    "key": "Leiria",
+    "lang": "es"
+  },
+  "PT/Lisbon": {
+    "id": "data/PT/Lisbon",
+    "isoid": "LIS",
+    "key": "Lisbon",
+    "lang": "es"
+  },
+  "PT/Portalegre": {
+    "id": "data/PT/Portalegre",
+    "isoid": "POA",
+    "key": "Portalegre",
+    "lang": "es"
+  },
+  "PT/Porto": {
+    "id": "data/PT/Porto",
+    "isoid": "POR",
+    "key": "Porto",
+    "lang": "es"
+  },
+  "PT/Santarém": {
+    "id": "data/PT/Santarém",
+    "isoid": "SAN",
+    "key": "Santarém",
+    "lang": "es"
+  },
+  "PT/Setúbal": {
+    "id": "data/PT/Setúbal",
+    "isoid": "SET",
+    "key": "Setúbal",
+    "lang": "es"
+  },
+  "PT/Viana do Castelo": {
+    "id": "data/PT/Viana do Castelo",
+    "isoid": "VIA",
+    "key": "Viana do Castelo",
+    "lang": "es"
+  },
+  "PT/Vila Real": {
+    "id": "data/PT/Vila Real",
+    "isoid": "VIL",
+    "key": "Vila Real",
+    "lang": "es"
+  },
+  "PT/Viseu": {
+    "id": "data/PT/Viseu",
+    "isoid": "VIS",
+    "key": "Viseu",
+    "lang": "es"
+  }
+}

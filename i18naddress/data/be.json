@@ -1,1 +1,32 @@
-{"BE": {"fmt": "%O%n%N%n%A%n%Z %C", "id": "data/BE", "key": "BE", "name": "BELGIUM", "posturl": "http://www.post.be/site/nl/residential/customerservice/search/postal_codes.html", "require": "ACZ", "zip": "\\d{4}", "zipex": "4000,1000"}}
+{
+  "BE": {
+    "fmt": "%O%n%N%n%A%n%Z %C",
+    "id": "data/BE",
+    "key": "BE",
+    "name": "BELGIUM",
+    "posturl": "http://www.post.be/site/nl/residential/customerservice/search/postal_codes.html",
+    "require": "ACZ",
+    "zip": "\\d{4}",
+    "zipex": "4000,1000",
+    "sub_isoids": "FLE~WAL~BRU",
+    "sub_keys": "Flemish Region~Walloon Region~Oruro"
+  },
+  "BE/Flemish Region": {
+    "id": "data/BE/Flemish Region",
+    "isoid": "FLE",
+    "key": "Flemish Region",
+    "lang": "es"
+  },
+  "BE/Walloon Region": {
+    "id": "data/BE/Walloon Region",
+    "isoid": "WAL",
+    "key": "Walloon Region",
+    "lang": "es"
+  },
+  "BE/Brussels-Capital Region": {
+    "id": "data/BE/Brussels-Capital Region",
+    "isoid": "BRU",
+    "key": "Brussels-Capital Region",
+    "lang": "es"
+  }
+}

@@ -1,1 +1,110 @@
-{"DE": {"fmt": "%N%n%O%n%A%n%Z %C", "id": "data/DE", "key": "DE", "name": "GERMANY", "posturl": "http://www.postdirekt.de/plzserver/", "require": "ACZ", "zip": "\\d{5}", "zipex": "26133,53225"}}
+{
+  "DE": {
+    "fmt": "%N%n%O%n%A%n%Z %C",
+    "id": "data/DE",
+    "key": "DE",
+    "name": "GERMANY",
+    "posturl": "http://www.postdirekt.de/plzserver/",
+    "require": "ACZ",
+    "zip": "\\d{5}",
+    "zipex": "26133,53225",
+    "sub_isoids": "BAD~BAV~BER~BRA~BRE~HAM~HES~MEC~LOW~NRH~RHI~SAA~SAX~SXA~SCH~THU",
+    "sub_keys": "Baden-Württemberg~Bavaria~Berlin~Brandenburg~Bremen~Hamburg~Hesse~Mecklenburg-Vorpommern~Lower Saxony~North Rhine-Westphalia~Rhineland-Palatinate~Saarland~Saxony~Saxony-Anhalt~Schleswig-Holstein~Thuringia"
+  },
+  "DE/Baden-Württemberg": {
+    "id": "data/DE/Baden-Württemberg",
+    "isoid": "BAD",
+    "key": "Baden-Württemberg",
+    "lang": "es"
+  },
+  "DE/Bavaria": {
+    "id": "data/DE/Bavaria",
+    "isoid": "BAV",
+    "key": "Bavaria",
+    "lang": "es"
+  },
+  "DE/Berlin": {
+    "id": "data/DE/Berlin",
+    "isoid": "BER",
+    "key": "Berlin",
+    "lang": "es"
+  },
+  "DE/Brandenburg": {
+    "id": "data/DE/Brandenburg",
+    "isoid": "BRA",
+    "key": "Brandenburg",
+    "lang": "es"
+  },
+  "DE/Bremen": {
+    "id": "data/DE/Bremen",
+    "isoid": "BRE",
+    "key": "Bremen",
+    "lang": "es"
+  },
+  "DE/Hamburg": {
+    "id": "data/DE/Hamburg",
+    "isoid": "HAM",
+    "key": "Hamburg",
+    "lang": "es"
+  },
+  "DE/Hesse": {
+    "id": "data/DE/Hesse",
+    "isoid": "HES",
+    "key": "Hesse",
+    "lang": "es"
+  },
+  "DE/Mecklenburg-Vorpommern": {
+    "id": "data/DE/Mecklenburg-Vorpommern",
+    "isoid": "MEC",
+    "key": "Mecklenburg-Vorpommern",
+    "lang": "es"
+  },
+  "DE/Lower Saxony": {
+    "id": "data/DE/Lower Saxony",
+    "isoid": "LOW",
+    "key": "Lower Saxony",
+    "lang": "es"
+  },
+  "DE/North Rhine-Westphalia": {
+    "id": "data/DE/North Rhine-Westphalia",
+    "isoid": "NRH",
+    "key": "North Rhine-Westphalia",
+    "lang": "es"
+  },
+  "DE/Rhineland-Palatinate": {
+    "id": "data/DE/Rhineland-Palatinate",
+    "isoid": "RHI",
+    "key": "Rhineland-Palatinate",
+    "lang": "es"
+  },
+  "DE/Saarland": {
+    "id": "data/DE/Saarland",
+    "isoid": "SAA",
+    "key": "Saarland",
+    "lang": "es"
+  },
+  "DE/Saxony": {
+    "id": "data/DE/Saxony",
+    "isoid": "SAX",
+    "key": "Saxony",
+    "lang": "es"
+  },
+  "DE/Saxony-Anhalt": {
+    "id": "data/DE/Saxony-Anhalt",
+    "isoid": "SXA",
+    "key": "Saxony-Anhalt",
+    "lang": "es"
+  },
+  "DE/Schleswig-Holstein": {
+    "id": "data/DE/Schleswig-Holstein",
+    "isoid": "SCH",
+    "key": "Schleswig-Holstein",
+    "lang": "es"
+  },
+  "DE/Thuringia": {
+    "id": "data/DE/Thuringia",
+    "isoid": "THU",
+    "key": "Thuringia",
+    "lang": "es"
+  }
+}

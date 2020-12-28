@@ -1,1 +1,44 @@
-{"DK": {"fmt": "%N%n%O%n%A%n%Z %C", "id": "data/DK", "key": "DK", "name": "DENMARK", "posturl": "http://www.postdanmark.dk/da/Privat/Kundeservice/postnummerkort/Sider/Find-postnummer.aspx", "require": "ACZ", "zip": "\\d{4}", "zipex": "8660,1566"}}
+{
+  "DK": {
+    "fmt": "%N%n%O%n%A%n%Z %C",
+    "id": "data/DK",
+    "key": "DK",
+    "name": "DENMARK",
+    "posturl": "http://www.postdanmark.dk/da/Privat/Kundeservice/postnummerkort/Sider/Find-postnummer.aspx",
+    "require": "ACZ",
+    "zip": "\\d{4}",
+    "zipex": "8660,1566",
+    "sub_isoids": "HOV~MID~NOR~SJA~SYD",
+    "sub_keys": "Hovedstaden~Midtjylland~Nordjylland~Sjælland~Syddanmark"
+  },
+  "DK/Hovedstaden": {
+    "id": "data/DK/Hovedstaden",
+    "isoid": "HOV",
+    "key": "Hovedstaden",
+    "lang": "es"
+  },
+  "DK/Midtjylland": {
+    "id": "data/DK/Midtjylland",
+    "isoid": "MID",
+    "key": "Midtjylland",
+    "lang": "es"
+  },
+  "DK/Nordjylland": {
+    "id": "data/DK/Nordjylland",
+    "isoid": "NOR",
+    "key": "Nordjylland",
+    "lang": "es"
+  },
+  "DK/Sjælland": {
+    "id": "data/DK/Sjælland",
+    "isoid": "SJA",
+    "key": "Sjælland",
+    "lang": "es"
+  },
+  "DK/Syddanmark": {
+    "id": "data/DK/Syddanmark",
+    "isoid": "SYD",
+    "key": "Syddanmark",
+    "lang": "es"
+  }
+}

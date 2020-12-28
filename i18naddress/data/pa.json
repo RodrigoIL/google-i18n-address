@@ -1,1 +1,72 @@
-{"PA": {"fmt": "%N%n%O%n%A%n%C%n%S", "id": "data/PA", "key": "PA", "name": "PANAMA (REP.)", "upper": "CS"}}
+{
+  "PA": {
+    "fmt": "%N%n%O%n%A%n%C%n%S",
+    "id": "data/PA",
+    "key": "PA",
+    "name": "PANAMA (REP.)",
+    "upper": "CS",
+    "sub_isoids": "BOC~COC~COL~CHI~DAR~HER~LSA~PAN~VER~PAO",
+    "sub_keys": "Bocas del Toro~Coclé~Colón~Chiriquí~Darién~Herrera~Los Santos~Panamá~Veraguas~Panamá Oeste"
+  },
+
+  "PA/Bocas del Toro": {
+    "id": "data/PA/Bocas del Toro",
+    "isoid": "BOC",
+    "key": "Bocas del Toro",
+    "lang": "es"
+  },
+  "PA/Coclé": {
+    "id": "data/PA/Coclé",
+    "isoid": "COC",
+    "key": "Coclé",
+    "lang": "es"
+  },
+  "PA/Colón": {
+    "id": "data/PA/Colón",
+    "isoid": "COL",
+    "key": "Colón",
+    "lang": "es"
+  },
+  "PA/Chiriquí": {
+    "id": "data/PA/Chiriquí",
+    "isoid": "CHI",
+    "key": "Chiriquí",
+    "lang": "es"
+  },
+  "PA/Darién": {
+    "id": "data/PA/Darién",
+    "isoid": "DAR",
+    "key": "Darién",
+    "lang": "es"
+  },
+  "PA/Herrera": {
+    "id": "data/PA/Herrera",
+    "isoid": "HER",
+    "key": "Herrera",
+    "lang": "es"
+  },
+  "PA/Los Santos": {
+    "id": "data/PA/Los Santos",
+    "isoid": "LSA",
+    "key": "Los Santos",
+    "lang": "es"
+  },
+  "PA/Panamá": {
+    "id": "data/PA/Panamá",
+    "isoid": "PAN",
+    "key": "Panamá",
+    "lang": "es"
+  },
+  "PA/Veraguas": {
+    "id": "data/PA/Veraguas",
+    "isoid": "VER",
+    "key": "Veraguas",
+    "lang": "es"
+  },
+  "PA/Panamá Oeste": {
+    "id": "data/PA/Panamá Oeste",
+    "isoid": "PAO",
+    "key": "Panamá Oeste",
+    "lang": "es"
+  }
+}

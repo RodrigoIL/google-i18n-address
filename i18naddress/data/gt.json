@@ -1,1 +1,144 @@
-{"GT": {"fmt": "%N%n%O%n%A%n%Z- %C", "id": "data/GT", "key": "GT", "name": "GUATEMALA", "zip": "\\d{5}", "zipex": "09001,01501"}}
+{
+  "GT": {
+    "fmt": "%N%n%O%n%A%n%Z- %C",
+    "id": "data/GT",
+    "key": "GT",
+    "name": "GUATEMALA",
+    "zip": "\\d{5}",
+    "zipex": "09001,01501",
+    "sub_isoids": "AVE~BVE~CHI~CHQ~EPR~ESC~GUA~HUE~IZA~JAL~JUT~PET~QUE~QUI~RET~SAC~SMA~SRO~SOL~SUC~TOT~ZAC",
+    "sub_keys": "Alta Verapaz~Baja Verapaz~Chimaltenango~Chiquimula~El Progreso~Escuintla~Guatemala~Huehuetenango~Izabal~Jalapa~Jutiapa~Petén~Quetzaltenango~Quiché~Retalhuleu~Sacatepéquez~San Marcos~Santa Rosa~Sololá~Suchitepéquez~Totonicapán~Zacapa"
+  },
+  "GT/Alta Verapaz": {
+    "id": "data/GT/Alta Verapaz",
+    "isoid": "AVE",
+    "key": "Alta Verapaz",
+    "lang": "es"
+  },
+  "GT/Baja Verapaz": {
+    "id": "data/GT/Baja Verapaz",
+    "isoid": "BVE",
+    "key": "Baja Verapaz",
+    "lang": "es"
+  },
+  "GT/Chimaltenango": {
+    "id": "data/GT/Chimaltenango",
+    "isoid": "CHI",
+    "key": "Chimaltenango",
+    "lang": "es"
+  },
+  "GT/Chiquimula": {
+    "id": "data/GT/Chiquimula",
+    "isoid": "CHQ",
+    "key": "Chiquimula",
+    "lang": "es"
+  },
+  "GT/El Progreso": {
+    "id": "data/GT/El Progreso",
+    "isoid": "EPR",
+    "key": "El Progreso",
+    "lang": "es"
+  },
+  "GT/Escuintla": {
+    "id": "data/GT/Escuintla",
+    "isoid": "ESC",
+    "key": "Escuintla",
+    "lang": "es"
+  },
+  "GT/Guatemala": {
+    "id": "data/GT/Guatemala",
+    "isoid": "GUA",
+    "key": "Guatemala",
+    "lang": "es"
+  },
+  "GT/Huehuetenango": {
+    "id": "data/GT/Huehuetenango",
+    "isoid": "HUE",
+    "key": "Huehuetenango",
+    "lang": "es"
+  },
+  "GT/Izabal": {
+    "id": "data/GT/Izabal",
+    "isoid": "IZA",
+    "key": "Izabal",
+    "lang": "es"
+  },
+  "GT/Jalapa": {
+    "id": "data/GT/Jalapa",
+    "isoid": "JAL",
+    "key": "Jalapa",
+    "lang": "es"
+  },
+  "GT/Jutiapa": {
+    "id": "data/GT/Jutiapa",
+    "isoid": "JUT",
+    "key": "Jutiapa",
+    "lang": "es"
+  },
+  "GT/Petén": {
+    "id": "data/GT/Petén",
+    "isoid": "PET",
+    "key": "Petén",
+    "lang": "es"
+  },
+  "GT/Quetzaltenango": {
+    "id": "data/GT/Quetzaltenango",
+    "isoid": "QUE",
+    "key": "Quetzaltenango",
+    "lang": "es"
+  },
+  "GT/Quiché": {
+    "id": "data/GT/Quiché",
+    "isoid": "QUI",
+    "key": "Quiché",
+    "lang": "es"
+  },
+  "GT/Retalhuleu": {
+    "id": "data/GT/Retalhuleu",
+    "isoid": "RET",
+    "key": "Retalhuleu",
+    "lang": "es"
+  },
+  "GT/Sacatepéquez": {
+    "id": "data/GT/Sacatepéquez",
+    "isoid": "SAC",
+    "key": "Sacatepéquez",
+    "lang": "es"
+  },
+  "GT/San Marcos": {
+    "id": "data/GT/San Marcos",
+    "isoid": "SMA",
+    "key": "San Marcos",
+    "lang": "es"
+  },
+  "GT/Santa Rosa": {
+    "id": "data/GT/Santa Rosa",
+    "isoid": "SRO",
+    "key": "Santa Rosa",
+    "lang": "es"
+  },
+  "GT/Sololá": {
+    "id": "data/GT/Sololá",
+    "isoid": "SOL",
+    "key": "Sololá",
+    "lang": "es"
+  },
+  "GT/Suchitepéquez": {
+    "id": "data/GT/Suchitepéquez",
+    "isoid": "SUC",
+    "key": "Suchitepéquez",
+    "lang": "es"
+  },
+  "GT/Totonicapán": {
+    "id": "data/GT/Totonicapán",
+    "isoid": "TOT",
+    "key": "Totonicapán",
+    "lang": "es"
+  },
+  "GT/Zacapa": {
+    "id": "data/GT/Zacapa",
+    "isoid": "ZAC",
+    "key": "Zacapa",
+    "lang": "es"
+  }
+}

@@ -1,1 +1,129 @@
-{"FI": {"fmt": "%O%n%N%n%A%nFI-%Z %C", "id": "data/FI", "key": "FI", "name": "FINLAND", "postprefix": "FI-", "posturl": "https://support.posti.fi/fi/tyokalut/postinumerohaku.html", "require": "ACZ", "zip": "\\d{5}", "zipex": "00550,00011"}}
+{
+  "FI": {
+    "fmt": "%O%n%N%n%A%nFI-%Z %C",
+    "id": "data/FI",
+    "key": "FI",
+    "name": "FINLAND",
+    "postprefix": "FI-",
+    "posturl": "https://support.posti.fi/fi/tyokalut/postinumerohaku.html",
+    "require": "ACZ",
+    "zip": "\\d{5}",
+    "zipex": "00550,00011",
+    "sub_isoids": "LAP~NOS~KAI~NKA~NSA~SSA~SOS~COS~OST~PIR~CFI~SAT~SFI~SKA~PÄI~TAV~UUS~KYM~ÅLA",
+    "sub_keys": "Lapland~North Ostrobothnia~Kainuu~North Karelia~Northern Savonia~Southern Savonia~South Ostrobothnia~Central Ostrobothnia~Ostrobothnia~Pirkanmaa~Central Finland~Satakunta~Southwest Finland~South Karelia~Päijänne Tavastia~Tavastia Proper~Uusimaa~Kymenlaakso~Åland Islands"
+  },
+  "FI/Lapland": {
+    "id": "data/FI/Lapland",
+    "isoid": "LAP",
+    "key": "Lapland",
+    "lang": "es"
+  },
+  "FI/North Ostrobothnia": {
+    "id": "data/FI/North Ostrobothnia",
+    "isoid": "NOS",
+    "key": "North Ostrobothnia",
+    "lang": "es"
+  },
+  "FI/Kainuu": {
+    "id": "data/FI/Kainuu",
+    "isoid": "KAI",
+    "key": "Kainuu",
+    "lang": "es"
+  },
+  "FI/North Karelia": {
+    "id": "data/FI/North Karelia",
+    "isoid": "NKA",
+    "key": "North Karelia",
+    "lang": "es"
+  },
+  "FI/Northern Savonia": {
+    "id": "data/FI/Northern Savonia",
+    "isoid": "NSA",
+    "key": "Northern Savonia",
+    "lang": "es"
+  },
+  "FI/Southern Savonia": {
+    "id": "data/FI/Southern Savonia",
+    "isoid": "SSA",
+    "key": "Southern Savonia",
+    "lang": "es"
+  },
+  "FI/South Ostrobothnia": {
+    "id": "data/FI/South Ostrobothnia",
+    "isoid": "SOS",
+    "key": "South Ostrobothnia",
+    "lang": "es"
+  },
+  "FI/Central Ostrobothnia": {
+    "id": "data/FI/Central Ostrobothnia",
+    "isoid": "COS",
+    "key": "Central Ostrobothnia",
+    "lang": "es"
+  },
+  "FI/Ostrobothnia": {
+    "id": "data/FI/Ostrobothnia",
+    "isoid": "OST",
+    "key": "Ostrobothnia",
+    "lang": "es"
+  },
+  "FI/Pirkanmaa": {
+    "id": "data/FI/Pirkanmaa",
+    "isoid": "PIR",
+    "key": "Pirkanmaa",
+    "lang": "es"
+  },
+  "FI/Central Finland": {
+    "id": "data/FI/Central Finland",
+    "isoid": "CFI",
+    "key": "Central Finland",
+    "lang": "es"
+  },
+  "FI/Satakunta": {
+    "id": "data/FI/Satakunta",
+    "isoid": "SAT",
+    "key": "Satakunta",
+    "lang": "es"
+  },
+  "FI/Southwest Finland": {
+    "id": "data/FI/Southwest Finland",
+    "isoid": "SFI",
+    "key": "Southwest Finland",
+    "lang": "es"
+  },
+  "FI/South Karelia": {
+    "id": "data/FI/South Karelia",
+    "isoid": "SKA",
+    "key": "South Karelia",
+    "lang": "es"
+  },
+  "FI/Päijänne Tavastia": {
+    "id": "data/FI/Päijänne Tavastia",
+    "isoid": "PÄI",
+    "key": "Päijänne Tavastia",
+    "lang": "es"
+  },
+  "FI/Tavastia Proper": {
+    "id": "data/FI/Tavastia Proper",
+    "isoid": "TAV",
+    "key": "Tavastia Proper",
+    "lang": "es"
+  },
+  "FI/Uusimaa": {
+    "id": "data/FI/Uusimaa",
+    "isoid": "UUS",
+    "key": "Uusimaa",
+    "lang": "es"
+  },
+  "FI/Kymenlaakso": {
+    "id": "data/FI/Kymenlaakso",
+    "isoid": "KYM",
+    "key": "Kymenlaakso",
+    "lang": "es"
+  },
+  "FI/Åland Islands": {
+    "id": "data/FI/Åland Islands",
+    "isoid": "ÅLA",
+    "key": "Åland Islands",
+    "lang": "es"
+  }
+}

@@ -1,1 +1,158 @@
-{"EC": {"fmt": "%N%n%O%n%A%n%Z%n%C", "id": "data/EC", "key": "EC", "name": "ECUADOR", "posturl": "http://www.codigopostal.gob.ec/", "upper": "CZ", "zip": "\\d{6}", "zipex": "090105,092301"}}
+{
+  "EC": {
+    "fmt": "%N%n%O%n%A%n%Z%n%C",
+    "id": "data/EC",
+    "key": "EC",
+    "name": "ECUADOR",
+    "posturl": "http://www.codigopostal.gob.ec/",
+    "upper": "CZ",
+    "zip": "\\d{6}",
+    "zipex": "090105,092301",
+    "sub_isoids": "AZU~BOL~CAÑ~CAR~CHI~COT~EOR~ESM~GAL~GUA~IMB~LOJ~LRI~MAN~MOR~NAP~ORE~PAS~PIC~SEL~SDO~SUC~TUN~ZAM",
+    "sub_keys": "Azuay~Bolívar~Cañar~Carchi~Chimborazo~Cotopaxi~El Oro~Esmeraldas~Galápagos~Guayas~Imbabura~Loja~Los Ríos~Manabí~Morona Santiago~Napo~Orellana~Pastaza~Pichincha~Santa Elena~Santo Domingo de los Tsáchilas~Sucumbíos~Tungurahua~Zamora Chinchipe"
+  },
+  "EC/Azuay": {
+    "id": "data/EC/Azuay",
+    "isoid": "AZU",
+    "key": "Azuay",
+    "lang": "es"
+  },
+  "EC/Bolívar": {
+    "id": "data/EC/Bolívar",
+    "isoid": "BOL",
+    "key": "Bolívar",
+    "lang": "es"
+  },
+  "EC/Cañar": {
+    "id": "data/EC/Cañar",
+    "isoid": "CAÑ",
+    "key": "Cañar",
+    "lang": "es"
+  },
+  "EC/Carchi": {
+    "id": "data/EC/Carchi",
+    "isoid": "CAR",
+    "key": "Carchi",
+    "lang": "es"
+  },
+  "EC/Chimborazo": {
+    "id": "data/EC/Chimborazo",
+    "isoid": "CHI",
+    "key": "Chimborazo",
+    "lang": "es"
+  },
+  "EC/Cotopaxi": {
+    "id": "data/EC/Cotopaxi",
+    "isoid": "COT",
+    "key": "Cotopaxi",
+    "lang": "es"
+  },
+  "EC/El Oro": {
+    "id": "data/EC/El Oro",
+    "isoid": "EOR",
+    "key": "El Oro",
+    "lang": "es"
+  },
+  "EC/Esmeraldas": {
+    "id": "data/EC/Esmeraldas",
+    "isoid": "ESM",
+    "key": "Esmeraldas",
+    "lang": "es"
+  },
+  "EC/Galápagos": {
+    "id": "data/EC/Galápagos",
+    "isoid": "GAL",
+    "key": "Galápagos",
+    "lang": "es"
+  },
+  "EC/Guayas": {
+    "id": "data/EC/Guayas",
+    "isoid": "GUA",
+    "key": "Guayas",
+    "lang": "es"
+  },
+  "EC/Imbabura": {
+    "id": "data/EC/Imbabura",
+    "isoid": "IMB",
+    "key": "Imbabura",
+    "lang": "es"
+  },
+  "EC/Loja": {
+    "id": "data/EC/Loja",
+    "isoid": "LOJ",
+    "key": "Loja",
+    "lang": "es"
+  },
+  "EC/Los Ríos": {
+    "id": "data/EC/Los Ríos",
+    "isoid": "LRI",
+    "key": "Los Ríos",
+    "lang": "es"
+  },
+  "EC/Manabí": {
+    "id": "data/EC/Manabí",
+    "isoid": "MAN",
+    "key": "Manabí",
+    "lang": "es"
+  },
+  "EC/Morona Santiago": {
+    "id": "data/EC/Morona Santiago",
+    "isoid": "MOR",
+    "key": "Morona Santiago",
+    "lang": "es"
+  },
+  "EC/Napo": {
+    "id": "data/EC/Napo",
+    "isoid": "NAP",
+    "key": "Napo",
+    "lang": "es"
+  },
+  "EC/Orellana": {
+    "id": "data/EC/Orellana",
+    "isoid": "ORE",
+    "key": "Orellana",
+    "lang": "es"
+  },
+  "EC/Pastaza": {
+    "id": "data/EC/Pastaza",
+    "isoid": "PAS",
+    "key": "Pastaza",
+    "lang": "es"
+  },
+  "EC/Pichincha": {
+    "id": "data/EC/Pichincha",
+    "isoid": "PIC",
+    "key": "Pichincha",
+    "lang": "es"
+  },
+  "EC/Santa Elena": {
+    "id": "data/EC/Santa Elena",
+    "isoid": "SEL",
+    "key": "Santa Elena",
+    "lang": "es"
+  },
+  "EC/Santo Domingo de los Tsáchilas": {
+    "id": "data/EC/Santo Domingo de los Tsáchilas",
+    "isoid": "SDO",
+    "key": "Santo Domingo de los Tsáchilas",
+    "lang": "es"
+  },
+  "EC/Sucumbíos": {
+    "id": "data/EC/Sucumbíos",
+    "isoid": "SUC",
+    "key": "Sucumbíos",
+    "lang": "es"
+  },
+  "EC/Tungurahua": {
+    "id": "data/EC/Tungurahua",
+    "isoid": "TUN",
+    "key": "Tungurahua",
+    "lang": "es"
+  },
+  "EC/Zamora Chinchipe": {
+    "id": "data/EC/Zamora Chinchipe",
+    "isoid": "ZAM",
+    "key": "Zamora Chinchipe",
+    "lang": "es"
+  }
+}
